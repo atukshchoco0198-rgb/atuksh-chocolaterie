@@ -1,20 +1,17 @@
-# Robots.txt for Atuksh Chocolaterie
-# https://atukshchocolaterie.com/
+# Robots.txt for Atuksh Chocolaterie Panchkula
+# https://atukshchoco0198-rgb.github.io/atuksh-chocolaterie/
 
 User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://atukshchocolaterie.com/sitemap.xml
+Sitemap: https://atukshchoco0198-rgb.github.io/atuksh-chocolaterie/sitemap.xml
 
 # Allow all major search engine crawlers
 User-agent: Googlebot
 Allow: /
 
 User-agent: Bingbot
-Allow: /
-
-User-agent: Slurp
 Allow: /
 
 User-agent: DuckDuckBot
